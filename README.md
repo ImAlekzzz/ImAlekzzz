@@ -1,8 +1,8 @@
 # Hello!
-I'm Alex, a student coding in his free time, I mainly code in [Python](python.org) and [HTML](html.spec.whatwg.org), want to learn [Rust](rust.rs), forced to learn C.
+I'm Alex, a student coding in his free time, I mainly code in [Python](https://python.org) and [HTML](https://html.spec.whatwg.org), want to learn [Rust](https://rust.rs), forced to learn C.
 
 ## Currently Working On
-- Music App based off [shredos67/swiftify](github.com/shredos67/swiftify) <img align="right" src="helloworld(print).png">
+- Music App based off [shredos67/swiftify](https://github.com/shredos67/swiftify) <img align="right" src="helloworld(print).png">
 
 ## Currently Learning
 - Python
