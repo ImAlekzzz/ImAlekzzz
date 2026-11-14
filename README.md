@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello!
+I'm Alex, a student coding in his free time, I mainly code in [Python](python.org) and [HTML](html.spec.whatwg.org), want to learn [Rust](rust.rs), forced to learn C.
 
-<!--
-**ImAlekzzz/ImAlekzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Working On
+- Music App based off [shredos67/swiftify](github.com/shredos67/swiftify)
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- HTML
+- Rust
+- C
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+- Reddit
+- Instagram
+- Comment in any of my comment sections
