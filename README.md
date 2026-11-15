@@ -19,7 +19,7 @@ I'm Alex, a student coding in his free time, I mainly code in [Python](https://p
 ## 
 
 ![](https://github-readme-stats.shion.dev/api?username=ImAlekzzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheFoxyyDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ImAlekzzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ##
 
