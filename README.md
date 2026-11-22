@@ -2,7 +2,7 @@
 I'm Alex, a student coding in his free time, I mainly code in [Python](https://python.org) and [HTML](https://html.spec.whatwg.org), want to learn [Rust](https://rust-lang.org), forced to learn C.
 
 ## Currently Working On
-- Music App based off [shredos67/swiftify](https://github.com/shredos67/swiftify) <img align="right" src="helloworld(print).png">
+- Material 3 Matrix (and i hope later discord) client (not going to be soon its a side project)
 
 ## Currently Learning
 - Python
